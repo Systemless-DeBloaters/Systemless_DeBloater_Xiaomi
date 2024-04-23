@@ -1,0 +1,99 @@
+com.miui.compass
+com.miui.android.fashiongallery
+com.miui.freeform
+com.miui.screenrecorder
+com.miui.fm
+com.miui.qr
+com.miui.gallery
+com.miui.videoplayer
+com.miui.player
+com.miui.userguide
+com.miui.backup
+com.miui.bugreport
+com.miui.notes
+com.miui.translationservice
+com.miui.hybrid.accessory
+com.miui.touchassistant
+com.miui.face
+com.miui.audioeffect
+com.miui.calculator
+com.miui.miwallpaper
+com.miui.cleanmaster
+com.miui.analytics
+com.miui.weather2
+com.miui.yellowpage
+com.miui.translation.kingsoft
+
+com.xiaomi.account
+com.xiaomi.mirecycle
+com.xiaomi.mipicks
+com.xiaomi.joyose
+com.xiaomi.midrop
+com.xiaomi.providers.appindex
+com.xiaomi.scanner
+com.xiaomi.cameratools
+
+com.mipay.wallet.id
+com.mipay.wallet.in
+
+# com.lbe.security.miui
+
+cn.wps.xiaomi.abroad.lite
+com.micredit.in
+
+com.mi.AutoTest
+com.mi.global.bbs
+com.mi.android.globalminusscreen
+com.mi.globallayout
+com.mi.android.globalFileexplorer
+
+com.android.soundrecorder
+com.android.providers.downloads
+com.android.providers.downloads.ui
+com.android.browser
+com.android.calendar
+com.android.providers.calender
+com.android.camera
+com.android.deskclock
+
+com.milink.service
+
+# com.miui.wmsvc
+# com.miui.home
+# com.miui.powerkeeper
+# com.miui.translation.xmcloud
+# com.miui.fmservice
+# com.xiaomi.bluetooth
+# com.miui.cloudservice.sysbase
+# com.miui.audiomonitor
+# com.xiaomi.location.fused
+# com.fido.xiaomi.uafclient
+# com.miui.translation.youdao
+# com.xiaomi.upnp
+# com.miui.vsimcore
+# com.mi.webkit.core
+# com.miui.sysopt
+# com.miui.global.packageinstaller
+# com.miui.guardprovider
+# com.miui.msa.global
+# com.xiaomi.cameratools
+# com.xiaomi.micloud.sdk
+# com.xiaomi.powerchecker
+# com.miui.micloudsync
+# com.miui.daemon
+
+# com.xiaomi.discover
+
+# BootLoop/Problems if removed
+# com.xiaomi.finddevice
+# com.miui.cloudservice
+# com.miui.cloudbackup
+# com.xiaomi.bluetooth.overlay
+# com.miui.rom
+# com.xiaomi.xmsf
+# com.xiaomi.glgm
+# com.miui.system
+# com.miui.securitycore
+# com.miui.securitycenter
+# com.miui.securityadd
+# com.miui.core

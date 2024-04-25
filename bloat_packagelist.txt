@@ -14,8 +14,6 @@ com.miui.notes
 com.miui.translationservice
 com.miui.hybrid.accessory
 com.miui.touchassistant
-com.miui.face
-com.miui.audioeffect
 com.miui.calculator
 com.miui.miwallpaper
 com.miui.cleanmaster
@@ -23,11 +21,11 @@ com.miui.analytics
 com.miui.weather2
 com.miui.yellowpage
 com.miui.translation.kingsoft
+com.miui.miservice
 
 com.xiaomi.account
 com.xiaomi.mirecycle
 com.xiaomi.mipicks
-com.xiaomi.joyose
 com.xiaomi.midrop
 com.xiaomi.providers.appindex
 com.xiaomi.scanner
@@ -36,7 +34,6 @@ com.xiaomi.cameratools
 com.mipay.wallet.id
 com.mipay.wallet.in
 
-# com.lbe.security.miui
 
 cn.wps.xiaomi.abroad.lite
 com.micredit.in
@@ -46,15 +43,18 @@ com.mi.global.bbs
 com.mi.android.globalminusscreen
 com.mi.globallayout
 com.mi.android.globalFileexplorer
+com.mi.globalbrowser
 
-com.android.soundrecorder
-com.android.providers.downloads
 com.android.providers.downloads.ui
+com.android.soundrecorder
 com.android.browser
 com.android.calendar
-com.android.providers.calender
 com.android.camera
 com.android.deskclock
+
+# For EU/China roms that have Xiaomi's own Dialer/Contacts App
+com.android.contacts
+com.android.mms
 
 com.milink.service
 
@@ -83,6 +83,10 @@ com.milink.service
 # com.miui.daemon
 
 # com.xiaomi.discover
+# com.miui.face
+# com.miui.audioeffect
+# com.xiaomi.joyose
+# com.lbe.security.miui
 
 # BootLoop/Problems if removed
 # com.xiaomi.finddevice

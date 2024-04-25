@@ -1,0 +1,28 @@
+name: Release Workflow
+
+on:
+  release:
+    types: [created]
+
+env:
+  GH_TOKEN: ${{ github.token }}
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run build script
+      run: |
+        chmod +x build.sh
+        ./build.sh ${{ github.event.release.tag_name }}
+
+    - name: Upload artifact
+      run: |
+        mod_id=$(grep "id=" module.prop | cut -d'=' -f2-)
+        gh release upload ${{github.event.release.tag_name}} $mod_id-${{ github.event.release.tag_name }}.zip

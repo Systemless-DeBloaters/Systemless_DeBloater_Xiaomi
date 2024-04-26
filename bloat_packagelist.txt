@@ -22,7 +22,19 @@ com.miui.weather2
 com.miui.yellowpage
 com.miui.translation.kingsoft
 com.miui.miservice
+com.miui.cloudservice.sysbase
+com.miui.audiomonitor
+com.miui.translation.xmcloud
+com.miui.vsimcore
+com.miui.fmservice
+com.miui.translation.youdao
+com.miui.face
+com.miui.audioeffect
+com.miui.sysopt
 
+com.xiaomi.upnp
+com.xiaomi.discover
+com.xiaomi.bluetooth
 com.xiaomi.account
 com.xiaomi.mirecycle
 com.xiaomi.mipicks
@@ -30,10 +42,13 @@ com.xiaomi.midrop
 com.xiaomi.providers.appindex
 com.xiaomi.scanner
 com.xiaomi.cameratools
+com.xiaomi.location.fused
+com.xiaomi.powerchecker
+
+com.fido.xiaomi.uafclient
 
 com.mipay.wallet.id
 com.mipay.wallet.in
-
 
 cn.wps.xiaomi.abroad.lite
 com.micredit.in
@@ -52,39 +67,22 @@ com.android.calendar
 com.android.camera
 com.android.deskclock
 
+com.milink.service
+
+com.mi.webkit.core
+
 # For EU/China roms that have Xiaomi's own Dialer/Contacts App
 com.android.contacts
 com.android.mms
 
-com.milink.service
-
 # com.miui.wmsvc
 # com.miui.home
 # com.miui.powerkeeper
-# com.miui.translation.xmcloud
-# com.miui.fmservice
-# com.xiaomi.bluetooth
-# com.miui.cloudservice.sysbase
-# com.miui.audiomonitor
-# com.xiaomi.location.fused
-# com.fido.xiaomi.uafclient
-# com.miui.translation.youdao
-# com.xiaomi.upnp
-# com.miui.vsimcore
-# com.mi.webkit.core
-# com.miui.sysopt
 # com.miui.global.packageinstaller
 # com.miui.guardprovider
 # com.miui.msa.global
-# com.xiaomi.cameratools
-# com.xiaomi.micloud.sdk
-# com.xiaomi.powerchecker
-# com.miui.micloudsync
 # com.miui.daemon
 
-# com.xiaomi.discover
-# com.miui.face
-# com.miui.audioeffect
 # com.xiaomi.joyose
 # com.lbe.security.miui
 
@@ -97,7 +95,9 @@ com.milink.service
 # com.xiaomi.xmsf
 # com.xiaomi.glgm
 # com.miui.system
+# com.miui.core
 # com.miui.securitycore
 # com.miui.securitycenter
 # com.miui.securityadd
-# com.miui.core
+# com.xiaomi.micloud.sdk
+# com.miui.micloudsync
